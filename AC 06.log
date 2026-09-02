@@ -1,0 +1,18 @@
+LTspice 24.0.12 for Windows
+Circuit: * C:\Users\91817\Documents\AC LAB LTS OP\AC 06.asc
+Start Time: Sat Aug 22 13:10:53 2026
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Node OUT is floating.
+
+WARNING: Less than two connections to node out.  This node is used by c2.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.179 seconds.
+
